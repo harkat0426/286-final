@@ -1,0 +1,29 @@
+div.nav{
+    width:fit-content;
+    margin: auto;
+}
+ul.nav {
+    margin:0;
+    padding:0;
+    list-style:none;
+    height:46px; line-height:36px;
+    background:#F35B04; /* you can change the backgorund color here. */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:18px;
+}
+ul.nav li {
+    height:46px;
+    border-right:1px solid #F18701; /* you can change the border color matching to your background color */
+    float:left;
+}
+ul.nav a {
+    margin-top: 5px;
+    display:block;
+    padding:0 28px;
+    color:#ccece6;
+    text-decoration:none;
+}
+ul.nav a:hover,
+ul.nav li.current a {
+    background:#F7B801;
+}
