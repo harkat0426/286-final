@@ -8,7 +8,7 @@
 		<div class="nav">
             <ul class="nav">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="get_to_know_us.html">About Us</a></li>
                 <li><a href="#">Merchandise</a></li>
                 <li><a href="Contact-Us.html">Contact</a></li>
                 <li><a href="#">Newsletter</a></li>
@@ -44,10 +44,11 @@
 		<div id="fieldback">
             <div class="field">
 				<div id="content">
-					<p class="header2">Learn Reiki and Beyond with Rev. Joe Thornton</p>
+					<p class="header2">Learn Reiki and Beyond with Reverend Joe Thornton</p>
 					</br>
 					</br>
-					<div><h3>“Be the change that you wish to see in the world.” ~ Gandhi</h3></div>
+					<div style="text-align:center;font-size:22px;"><b><I>“Be the change that you wish to see in the world.” ~ Gandhi</I></b></div>
+					</br>
 					</br>
 					<div>
 						Reiki is much more than just a hands-on healing technique; it is a tool for spiritual growth and enhancing the quality of life.  Join us and allow your natural gifts to blossom.  Learn this effective method for relieving stress and anxiety, reduce pain and promote healing in yourself, in others and for our world. 
@@ -126,7 +127,7 @@
 
 						<p>Joe teaches from the training manual he’s written which includes not only the history and how-to practicality of Reiki but lessons learned from additional studies as well as practical experience.  He will take you on a journey through Reiki and beyond.</p>
 
-						<p>Offered throughout the year - Contact Great Conjunction to schedule</p>
+						<p style="text-align:center;">Offered throughout the year - Contact Great Conjunction to schedule</p>
 					</div>
 				</div>
 			</div>
