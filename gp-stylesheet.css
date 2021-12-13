@@ -1,0 +1,105 @@
+div.nav{
+    width:fit-content;
+    margin: auto;
+}
+ul.nav {
+    margin:0;
+    padding:0;
+    list-style:none;
+    height:46px; line-height:36px;
+    background:#F35B04; /* you can change the backgorund color here. */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:18px;
+}
+ul.nav li {
+    height:46px;
+    border-right:1px solid #F18701; /* you can change the border color matching to your background color */
+    float:left;
+}
+ul.nav a {
+    margin-top: 5px;
+    display:block;
+    padding:0 28px;
+    color:#ccece6;
+    text-decoration:none;
+}
+ul.nav a:hover,
+ul.nav li.current a {
+    background:#F7B801;
+}
+
+body{
+    background-image: url('betterbackground1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+label{
+    display: flex;
+    font-size: 24px;
+    margin: auto;
+    color:white;
+}
+
+input{
+    display:flex;
+    align-content: center;
+    margin:auto;
+}
+
+p.header1{
+    position: relative;
+    bottom:40px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color:#ccece6;
+    font-size:48px;
+}
+
+p.header2{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color:#ccece6;
+    font-size:28px;
+}
+
+#img{
+    margin: auto;
+    width: 60.3%;
+    height:600px;
+    padding-bottom: 1px;
+}
+
+#fieldback{
+    background-color:#3D348B;
+    margin: auto;
+    width: 60.3%;
+    height:1000px;
+}
+
+.field{
+    position: relative;
+    top:25px;
+    width:80%;
+    height:fit-content;
+    background-color:#7678ED;
+    margin: auto;
+}
+
+.line{
+    width: 60.3%;
+    background-color: #F35B04;
+    height: 80px;
+    margin: auto;
+    
+}
+
+#linefore{
+    position:absolute;
+    left:30%;
+    width: 40%;
+    height: 80px;
+    margin: auto;
+    background-color:#F7B801;
+}
