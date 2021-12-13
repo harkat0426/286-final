@@ -1,12 +1,54 @@
 <! doctype html >
 <html>
 	<head>
-	
+
+		<style>
+			body{
+			background-color:white;
+			}
+		</style>
+		
+		<title>home</title>
+		<link rel="stylesheet" href="gp-stylesheet.css">
 	</head>
 	<body>
-	<h1>Welcome!</h1>
-		<p>we are great conjunction, a 501c3 nonprofit devoted to bringing together differing philosophies and spiritual practices for the purpose of education, understanding and common ground.</p>
-		<p>Great Conjunction offers classes which include yoga, meditation, spiritual awareness, Reiki and many other subjects. Experience a variety of workshops such as how to find balance in our ever-changing and chaotic world, achieving your goals with the Law of Attraction, recovering from spiritual abuse and developing your innate psychic abilities.</p>
+		<div class="nav">
+			<ul class="nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="get_to_know_us.html">About Us</a></li>
+				<li><a href="#">Merchandise</a></li>
+				<li><a href="Contact-Us.html">Contact</a></li>
+				<li><a href="#">Newsletter</a></li>
+				<li><a href="#">Wedding</a></li>
+				<li><a href="psychic">Readings</a></li>
+				<li><a href="learn.html">Learn Reiki</a></li>
+				<li><a href="energy.html">Reiki & Energy</a></li>
+				<li><a href="#">Donate</a></li>
+				<li><a href="#">Scholarships</a></li>
+				<li><a href="#">Sign In</a></li>
+			  </ul>
+		</div>
+		<div id="img" style="padding-top: 1px;">
+			<img src="ConBakImg.jpg" width="100%;"></img>
+		</div>
+		<div class="line">
+			<div id="linefore">
+				<p class="header1">
+					Great Conjunction Spirtual Center 
+				</p>
+			</div>
+		</div>
+		<div id="fieldback">
+			<div class="field">
+				<div id="content">
+					<h1>Welcome!</h1>
+					<p>we are great conjunction, a 501c3 nonprofit devoted to bringing together differing philosophies and spiritual practices for the purpose of education, understanding and common ground.</p>
+					
+					
+					:)
+					<p>Great Conjunction offers classes which include yoga, meditation, spiritual awareness, Reiki and many other subjects. Experience a variety of workshops such as how to find balance in our ever-changing and chaotic world, achieving your goals with the Law of Attraction, recovering from spiritual abuse and developing your innate psychic abilities.</p>
+				</div>
+			</div>
+		</div>
 	</body>
-
 </html>
