@@ -76,14 +76,15 @@ p.header2{
 #fieldback{
     background-color:#3D348B;
     margin: auto;
-    width: 60.3%;
+    width: 90%;
     height:1000px;
 }
 
 .field{
     position: relative;
-    top:25px;
-    width:80%;
+    top:7%;
+	bottom:7%;
+    width:87%;
     height:fit-content;
     background-color:#7678ED;
     margin: auto;
@@ -93,7 +94,7 @@ p.header2{
     width: 90%;
     background-color: #F35B04;
     height: 80px;
-    margin: auto;
+    margin:auto;
     
 }
 
@@ -104,4 +105,7 @@ p.header2{
     height: 80px;
     margin: auto;
     background-color:#F7B801;
+}
+#content{
+	padding: 5%;
 }
