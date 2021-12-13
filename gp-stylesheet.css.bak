@@ -101,7 +101,7 @@ p.header2{
     position:absolute;
     left:25%;
     width: 50%;
-    height: 80px;
+    height: 85px;
     margin: auto;
     background-color:#F7B801;
 }
