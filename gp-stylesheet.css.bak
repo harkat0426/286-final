@@ -1,5 +1,5 @@
 div.nav{
-    width:90%;
+   width:90%;
     margin: auto;
 }
 ul.nav {
@@ -12,16 +12,16 @@ ul.nav {
     font-size:18px;
 }
 ul.nav li {
+    width:8%;
 	text-align:center;
     height:46px;
     border-right:1px solid #F18701; /* you can change the border color matching to your background color */
     float:left;
-	width: 8.26%;
+	
 }
 ul.nav a {
     margin-top: 5px;
     display:block;
-    /*padding:0 25%;*/
     color:#ccece6;
     text-decoration:none;
 }
@@ -45,22 +45,21 @@ label{
 }
 
 input{
+    width:40%;
     display:flex;
-    align-content: center;
-    margin:auto;
 }
 
 p.header1{
     position: relative;
-    bottom:50%;
+    bottom:65%;
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     color:#ccece6;
-    font-size:48px;
+    font-size:350%
 }
 
 p.header2{
-    text-align: center;
+    position: relative;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     color:#ccece6;
     font-size:28px;
@@ -74,20 +73,40 @@ p.header2{
 }
 
 #fieldback{
+    height:100px;
     background-color:#3D348B;
     margin: auto;
     width: 90%;
-    height:1000px;
+	padding:10% 0%;
 }
 
 .field{
-    position: relative;
-    top:7%;
-	bottom:7%;
-    width:87%;
+    position:relative;
+    left:10%;
+    display:inline-block;
+    vertical-align: auto;
+    width:35%;
     height:fit-content;
     background-color:#7678ED;
-    margin: auto;
+	
+}
+
+.field2{
+    position:relative;
+    right:-20%;
+    display:inline-block;
+    vertical-align:auto;
+    width:35%;
+    height:fit-content;
+    background-color:#7678ED;
+
+}
+#social{
+    position:relative;
+    left:10%;
+    background-color:#7678ED;
+    height:fit-content;
+    
 }
 
 .line{
@@ -106,6 +125,23 @@ p.header2{
     margin: auto;
     background-color:#F7B801;
 }
-#content{
+.content{
 	padding: 5%;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:18px;
+}
+
+.row{
+	
+}
+.col{
+	float:left;
+}
+.courses{
+	display:flex;
+	justify-content:center;
+	
+}
+#content{
+	padding: 1%;
 }
