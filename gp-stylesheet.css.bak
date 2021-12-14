@@ -119,7 +119,13 @@ p.header2{
 	float:left;
 }
 .courses{
-	
+	display:flex;
 	justify-content:center;
 	
+}
+div a{
+	color:white;
+}
+div a:current, div a :clicked{
+	color:white;
 }
