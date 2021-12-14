@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="../brokenoops.css">
+		<link rel="stylesheet" href="gp-stylesheet">
 	</head>
 	<body>
 		<div class="nav">
@@ -33,7 +33,7 @@
 		<div id="fieldback">
             <div class="field2">
 				<div class="content">
-					<p class="header2">Reiki & Energy Work</p>
+					<p class="header3">Reiki & Energy Work</p>
 					<div>
 						<p>Experience the tranquility that will reemerge and the inner healing you will experience during your session of this gentle healing practice. When deeply relaxed, your body will recall its natural state and allow you to release the obstacles keeping you from feeling complete, wholly alive and be the unique gift that is you.</p>
 

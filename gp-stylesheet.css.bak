@@ -9,10 +9,10 @@ ul.nav {
     height:46px; line-height:36px;
     background:#F35B04; /* you can change the backgorund color here. */
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:18px;
+    font-size:50%;
 }
 ul.nav li {
-    width:8%;
+    width:8.24%;
 	text-align:center;
     height:46px;
     border-right:1px solid #F18701; /* you can change the border color matching to your background color */
