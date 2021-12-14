@@ -1,5 +1,5 @@
 div.nav{
-   
+   w
     margin: auto;
 }
 ul.nav {
@@ -16,7 +16,7 @@ ul.nav li {
     height:46px;
     border-right:1px solid #F18701; /* you can change the border color matching to your background color */
     float:left;
-	
+	width:
 }
 ul.nav a {
     margin-top: 5px;
@@ -136,4 +136,3 @@ p.header3{
     color:#ccece6;
     font-size:28px;
 }
-
