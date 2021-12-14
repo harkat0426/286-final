@@ -13,9 +13,9 @@
                 <li><a href="Contact-Us.html">Contact</a></li>
                 <li><a href="#">Newsletter</a></li>
                 <li><a href="#">Wedding</a></li>
-                <li><a href="#">Readings</a></li>
-                <li><a href="#">Learn Reiki</a></li>
-                <li><a href="#">Reiki & Energy</a></li>
+                <li><a href="psychic.html">Readings</a></li>
+                <li><a href="learn.html">Learn Reiki</a></li>
+                <li><a href="energy.html">Reiki & Energy</a></li>
                 <li><a href="#">Donate</a></li>
                 <li><a href="#">Scholarships</a></li>
                 <li><a href="#">Sign In</a></li>
@@ -61,7 +61,7 @@
 					 
 					<div>
 						**All Materials Included in class fees**
-						We're taking you further than any other classes.
+						
 					</div>
 					</br>
 					<div>
@@ -123,7 +123,7 @@
 						</div>  
 					</div>
 					<div>
-						<p>Learn from Reiki Master/Teacher Rev. Joe Thornton, who will share the history and practicality of Reiki in a warm, comfortable and safe environment.  Joe has worked with multiple teachers and has studied multiple energetic healing modalities including Shamanic medicine.</p>
+						<p>Learn from Reiki Master/Teacher <a href="get_to_know_us.html">Rev. Joe Thornton</a>, who will share the history and practicality of Reiki in a warm, comfortable and safe environment.  Joe has worked with multiple teachers and has studied multiple energetic healing modalities including Shamanic medicine.</p>
 
 						<p>Joe teaches from the training manual he’s written which includes not only the history and how-to practicality of Reiki but lessons learned from additional studies as well as practical experience.  He will take you on a journey through Reiki and beyond.</p>
 
