@@ -1,38 +1,40 @@
 <!doctype>
 <html>
 	<head>
+		<link rel="stylesheet" href="gp-stylesheet.css">
 		<style>
-			p.header1{
+		
+			.field{
+				
+				
+				width:80%;
+				height:fit-content;
+				background-color:#7678ED;
+				
+			}
+			#fieldback{
+				height:fit-content;
+				
+			}
+			p.header2{
 				position: relative;
-				top:17%;
-				text-align: center;
 				font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 				color:#ccece6;
-				font-size:250%
+				font-size:28px;
+				color:white;
+				text-align:center;
 			}
-			.line{
-				
-				position:relative;
-				width: 90%;
-				background-color: #F35B04;
-				height: 80px;
-				margin:auto;
-				
+			.content{
+				padding: 5%;
+				font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+				font-size:18px;
 			}
-			
-			#linefore{
-				position:relative;
-				
-				width: 50%;
-				height: 80px;
-				margin: auto;
-				background-color:#F7B801;
+			.courses{
+				padding:0 3%;
+				font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+				font-size:18px;
 			}
-
-
-		
 		</style>
-		<link rel="stylesheet" href="../brokenoops.css">
 	</head>	
 	<body>
 		<div class="nav">
@@ -63,9 +65,9 @@
             </div>
         </div>
 		<div id="fieldback">
-            <div class="field2">
-				<div class="content">
-					<p class="header3">Learn Reiki and Beyond with Reverend Joe Thornton</p>
+            <div class="field">
+				<div class="content" style="padding:5% 5% 0 5%;">
+					<p class="header2">Learn Reiki and Beyond with Reverend Joe Thornton</p>
 					</br>
 					</br>
 					<div style="text-align:center;font-size:22px;"><b><I>“Be the change that you wish to see in the world.” ~ Gandhi</I></b></div>
@@ -87,14 +89,17 @@
 					</br>
 					<div>
 						Studying Reiki is an excellent opportunity to learn how to:
-
-						Relieve stress
-						Replenish your energy
-						Restore inner peace and vitality
-						Empower the body to better heal itself
-						Promote spiritual growth
-						The structure for all classes will be discussion and hands-on.  In each class you will learn:
+						<ul>
+							<li>Relieve stress</li>
+							<li>Replenish your energy</li>
+							<li>Restore inner peace and vitality</li>
+							<li>Empower the body to better heal itself</li>
+							<li>Promote spiritual growth</li>
+						</ul>
+						</br>
+						<p>The structure for all classes will be discussion and hands-on.  In each class you will learn:</p>
 					</div>
+				</div>
 					</br>
 					<div class="courses">
 						<div class="row">
@@ -143,6 +148,7 @@
 							</div>
 						</div>  
 					</div>
+				<div class="content" style="padding:0 5% 5% 5%;">
 					<div>
 						<p>Learn from Reiki Master/Teacher <a href="get_to_know_us.html">Rev. Joe Thornton</a>, who will share the history and practicality of Reiki in a warm, comfortable and safe environment.  Joe has worked with multiple teachers and has studied multiple energetic healing modalities including Shamanic medicine.</p>
 
