@@ -9,16 +9,13 @@
             <ul class="nav">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="get_to_know_us.html">About Us</a></li>
-                <li><a href="#">Merchandise</a></li>
-                <li><a href="Contact-Us.html">Contact</a></li>
+                <li><a href="contact-us.html">Contact</a></li>
                 <li><a href="#">Newsletter</a></li>
                 <li><a href="#">Wedding</a></li>
-                <li><a href="psychic">Readings</a></li>
+                <li><a href="psychic.html">Readings</a></li>
                 <li><a href="learn.html">Learn Reiki</a></li>
                 <li><a href="energy.html">Reiki & Energy</a></li>
                 <li><a href="#">Donate</a></li>
-                <li><a href="#">Scholarships</a></li>
-                <li><a href="#">Sign In</a></li>li>
                 <li><a href="#">Sign In</a></li>
               </ul>
         </div>
@@ -28,33 +25,109 @@
         </div>
         <div class="line">
             <div id="linefore">
-                <p class="header1">
+                <p class="header1beta">
                     Great Conjunction Spirtual Center 
                 </p>
             </div>
         </div>
-        <div id="fieldback">
+        <div id="fieldbackbeta">
             <div class="field">
 				<div id="content">
 					<p class="header2">Contact Us Via Email</p>
 					<form>
 						<label for="fname">First name:</label>
+                        <input type="text" id="fname" name="fname">
 						<label for="lname">Last name:</label>
+                        <input type="text" id="lname" name="lname">
 						<label for="email">Email:</label>
+                        <input type="email" id="email" name="email">
 						<label for="sub">Subject:</label>
-						<br>
-						<input type="text" id="fname" name="fname">
-						<input type="text" id="lname" name="lname">
-						<input type="text" id="email" name="email">
-						<input type="text" id="sub" name="sub">
+                        <input type="text" id="sub" name="sub">
+                        <br>
+                        <input type="submit"> <!--This isnt going anywhere so its fake-->
+					</form>
+				</div>
+            </div>
+            <div class="field2">
+				<div id="content">
+					<p class="header2">Contact Us Via Phone Sessions</p>
+					<form>
+						<label for="fname2">First name:</label>
+                        <input type="text" id="fname2" name="fname2">
+						<label for="lname2">Last name:</label>
+                        <input type="text" id="lname2" name="lname2">
+						<label for="phone">Phone Number:</label>
+                        <input type="number" id="phone" name="phone">
+						<label for="sub2">Subject:</label>
+                        <input type="text" id="sub2" name="sub2">
+                        <br>
+                        <input type="submit"> <!--This isnt going anywhere so its fake-->
 					</form>
 				</div>
             </div>
         </div>
-        <div class="line">
-
+        <div id="bigdivmedia">
+            <div id="fieldbackalpha">
+                <h1>Follow our Social Medias</h1>
+            </div>
         </div>
 
+        <div id="fieldbackbeta">
+            <div class="field2alpha">
+				<div id="content">
+                    <h1>
+                        Social Community Sites
+                        <p>
+                            <a href="https://www.youtube.com/channel/UC1YJ0hDdbK9QP5C-HU8XGfg">
+                                Youtube
+                            </a>
+                        </p>
+                        <p>
+                            <!---There community was deleted??-->
+                            <a href="https://currents.google.com/communities/106608924565285195959">
+                                Google Plus
+                            </a>
+                        </p>
+                        <p>
+                            <!---Place Holder for when they want to add a new one.-->
+                            <a>
+                                []
+                            </a>
+                        </p>
+                    </h1>
+				</div>
+            </div>
+
+            <div class="field2beta">
+				<div id="content">
+                    <h1>
+                        Social Media Sites
+                        <p>
+                            <a href="https://www.facebook.com/GreatConjunction/">
+                                Facebook
+                            </a>
+                        </p>
+                        <p>
+                            <a href="https://www.instagram.com/greatconjunction/">
+                                Instagram
+                            </a>
+                        </p>
+                        <p>
+                            <a href="https://twitter.com/GreatConjunct">
+                                Twitter
+                            </a>
+                        </p>
+                    </h1>
+				</div>
+            </div>
+        </div>
+        <div class="line">
+            <div id="linefore">
+                <p class="header1beta">
+                    Talk to you soon!
+                </p>
+            </div>
+        </div>
     </body>
 </html>
 
