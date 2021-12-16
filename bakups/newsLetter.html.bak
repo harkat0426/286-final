@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="stylesheet" href="gp-stylesheet.css">
+		<title>Newsletter</title>
+	</head>
+	<body>
+		<div class="nav">
+			<ul class="nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="get_to_know_us.html">About Us</a></li>
+				<li><a href="Contact-Us.html">Contact</a></li>
+				<li><a href="newsLetter.html">Newsletter</a></li>
+				<li><a href="weddings.html">Wedding</a></li>
+				<li><a href="psychic.html">Readings</a></li>
+				<li><a href="learn.html">Learn Reiki</a></li>
+				<li><a href="energy.html">Reiki & Energy</a></li>
+				<li><a href="donate.html">Donate</a></li>
+				<li><a href="signin.html">Sign In</a></li>
+			</ul>
+		</div>
+		<div id="img" style="padding-top: 1px;">
+			<img src="ConBakImg.jpg" width="100%;"></img>
+		</div>
+		<div class="line">
+			<div id="linefore">
+				<p class="header1">
+					Newsletter
+				</p>
+			</div>
+		</div>
+		<div id="fieldback">
+			<div class="field3">
+				<div id="content">
+					<h2>Great Conjunction Spiritual Center</h2>
+					<fieldset>
+						<p>
+							Thank you for subscribing to our newsletter! Each month we share articles, news and events from
+							the
+							Great Conjunction community. We also keep you up to date about our lectures, psychic fairs,
+							classes and
+							meditations.
+						</p>
+						<form>
+							<label for="email">Email:</label>
+							<input type="email" id="email" name="email" required> <br>
+							<label for="fname">First name:</label>
+							<input type="text" id="fname" name="fname" required> <br>
+							<label for="lname">Last name:</label>
+							<input type="text" id="lname" name="lname" required> <br>
+							<label for="address">Address</label>
+							<input name="address" type="text" placeHolder="Address" required> <br>
+							<input name="address2" type="text" placeHolder="Address 2"> <br>
+							<input name="city" type="text" placeHolder="City" required>
+							<input name="state" type="text" placeHolder="State/Prov/Region" required>
+							<input name="zip" type="text" placeHolder="Postal/Zip" required> <br>
+							<input name="country" type="text" placeHolder="Country" required> <br>
+							<label for="state">State</label>
+							<input name="state" type="text" required>
+							<label for="postal">Zip Code</label>
+							<input name="Postal" type="text" required>
+							<label for="city">Program</label>
+							<input name="program" type="text" required>
+							<label for="city">City</label>
+							<input name="city" type="text" required>
+							<br>
+							<h3>expo News</h3>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Akron / Hudson</label><br>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Boardman</label><br>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Vendor News</label><br>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Warren</label><br>
+							<br>
+							<h3>Quartly Workshops</h3>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Death & Cake</label><br>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Psychic Development</label><br>
+							<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+							<label for="vehicle1"> Sacred Empowerment</label><br>
+						</form>
+
+					</fieldset>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>
