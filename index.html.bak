@@ -2,9 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="gp-stylesheet.css">
-		
 		<style>
-		
 			.field{
 				width:80%;
 				height:fit-content;
@@ -27,33 +25,28 @@
 				font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 				font-size:18px;
 			}
-			
 		</style>
-		
-		
 		<title>home</title>
-		
 	</head>
 	<body>
 		<div class="nav">
 			<ul class="nav">
 				<li><a href="index.html">Home</a></li>
 				<li><a href="get_to_know_us.html">About Us</a></li>
-				<li><a href="#">Merchandise</a></li>
 				<li><a href="Contact-Us.html">Contact</a></li>
-				<li><a href="#">Newsletter</a></li>
-				<li><a href="#">Wedding</a></li>
+				<li><a href="newsLetter.html">Newsletter</a></li>
+				<li><a href="weddings.html">Wedding</a></li>
 				<li><a href="psychic.html">Readings</a></li>
 				<li><a href="learn.html">Learn Reiki</a></li>
 				<li><a href="energy.html">Reiki & Energy</a></li>
-				<li><a href="#">Donate</a></li>
-				<li><a href="#">Scholarships</a></li>
-				<li><a href="#">Sign In</a></li>
-			  </ul>
+				<li><a href="donate.html">Donate</a></li>
+				<li><a href="signin.html">Sign In</a></li>
+			</ul>
 		</div>
 		 <div id="img" style="padding-top: 1px;">
             <img src="ConBakImg.jpg" style="width:100%"></img>
         </div>
+		</br>
 		</br>
 		</br>
 		</br>
@@ -71,23 +64,23 @@
                 </p>
             </div>
         </div>
-	<div style="display:flex;justify-content:center">
-	<div id="fieldback">
-            <div class="field">
-				<div class="content" style="padding:5% 5% 0 5%;">
-					<p class="header2">Welcome to great conjunction spiritual center</p>
-					
-					<div>
-						<p>We are great conjunction, a 501c3 nonprofit devoted to bringing together differing philosophies and spiritual practices for the purpose of education, understanding and common ground.</p>
+		<div style="display:flex;justify-content:center">
+			<div id="fieldback">
+				<div class="field">
+					<div class="content"">
+						<p class="header2">Welcome to Great Conjunction Spiritual Center</p>
+						
+						<div>
+							<p>We are great conjunction, a 501c3 nonprofit devoted to bringing together differing philosophies and spiritual practices for the purpose of education, understanding and common ground.</p>
+						</div>
+						</br>
+						<div>
+							<p>Great Conjunction offers classes which include yoga, meditation, spiritual awareness, Reiki and many other subjects. Experience a variety of workshops such as how to find balance in our ever-changing and chaotic world, achieving your goals with the Law of Attraction, recovering from spiritual abuse and developing your innate psychic abilities.</p>
+						</div>
+						
 					</div>
-					</br>
-					<div>
-						<p>Great Conjunction offers classes which include yoga, meditation, spiritual awareness, Reiki and many other subjects. Experience a variety of workshops such as how to find balance in our ever-changing and chaotic world, achieving your goals with the Law of Attraction, recovering from spiritual abuse and developing your innate psychic abilities.</p>
-					</div>
-					
-			
 				</div>
 			</div>
-        </div>
 		</div>
+	</body>
 </html>
