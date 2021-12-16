@@ -12,7 +12,7 @@ ul.nav {
     font-size:100%;
 }
 ul.nav li {
-    width:8.24%;
+    width:10%;
 	text-align:center;
     height:46px;
     border-right:1px solid #F18701; /* you can change the border color matching to your background color */
@@ -31,7 +31,7 @@ ul.nav li.current a {
 }
 
 body{
-    background-image: url('imgs/betterbackground1.jpg');
+    background-image: url('../imgs/betterbackground1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
