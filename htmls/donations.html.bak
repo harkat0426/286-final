@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="stylesheet/gp-stylesheet.css">
+        <link rel="stylesheet" href="../stylesheet/gp-stylesheet.css">
         <title>Donations</title>
     </head>
     <body>
@@ -20,7 +20,7 @@
               </ul>
         </div>
         <div id="img" style="padding-top: 1px;">
-            <img src="ConBakImg.jpg" width="100%;"></img>
+            <img src="imgs/ConBakImg.jpg" width="100%;"></img>
         </div>
         <!---The actual Contact Us Page begins here-->
         <div class="line">

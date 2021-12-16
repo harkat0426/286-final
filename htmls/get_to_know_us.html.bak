@@ -73,9 +73,10 @@
 								<div class="card" style="width: 18rem;">
 								  <img src="../imgs/joe_great_conjunction.jpg" class="card-img-top" alt="boo">
 								  <div class="card-body" style="background-color:white">
-										<h5 style="padding:20px">Joe</h5>
-										<p style="padding:20px">Rev. Joe Thornton began his career in journalism then moved to the corporate world.  Later, he founded a candle manufacturing company, which he sold in 2015. Throughout his life he explored his spiritual side through reading and meditating and exploring spiritual practices. Eventually Joe began to study in earnest and turned his professional life toward the spiritual as well. </p>
-									</div>
+									<h5 style="padding:20px">Joe</h5>
+									<p style="padding:20px">Rev. Joe Thornton began his career in journalism then moved to the corporate world.  Later, he founded a candle manufacturing company, which he sold in 2015. Throughout his life he explored his spiritual side through reading and meditating and exploring spiritual practices. Eventually Joe began to study in earnest and turned his professional life toward the spiritual as well. </p>
+									<a href="Contact_Us.html" class="btn btn-primary">Schedule reiki with joe</a><br />
+								  </div>
 								</div>
 							</div>
 							<br />
@@ -83,9 +84,9 @@
 								<div class="card" style="width: 18rem;">
 								  <img src="../imgs/john_great_conjunction.jpg" class="card-img-top" alt="boo">
 								  <div class="card-body" style="background-color:white">
-										<h5 style="padding:20px">John</h5>
-										<p style="padding:20px">John Michael Thornton is a psychic and medical intuitive with over twenty years experience honing his natural abilities. John’s parents met through a spiritual non-profit giving him a unique perspective on the importance of a strong spiritual community.</p>
-										
+									<h5 style="padding:20px">John</h5>
+									<p style="padding:20px">John Michael Thornton is a psychic and medical intuitive with over twenty years experience honing his natural abilities. John’s parents met through a spiritual non-profit giving him a unique perspective on the importance of a strong spiritual community.</p>
+									<a href="Contact-Us.html" style="padding-bottom:10%">Schedule reading with john</a><br />
 								  </div>
 								  <br />
 								</div>

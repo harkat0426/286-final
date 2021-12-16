@@ -21,7 +21,7 @@
         </div>
 <!---The actual Contact Us Page begins here-->
         <div id="img" style="padding-top: 1px;">
-            <img src="../imgs/ConBakImg.jpg" width="100%;"></img>
+            <img src="imgs/ConBakImg.jpg" width="100%;"></img>
         </div>
         <div class="line">
             <div id="linefore">
