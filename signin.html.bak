@@ -19,7 +19,6 @@
 				<li><a href="signin.html">Sign In</a></li>
             </ul>
         </div>
-<!---The actual Contact Us Page begins here-->
         <div id="img" style="padding-top: 1px;">
             <img src="ConBakImg.jpg" width="100%;"></img>
         </div>
