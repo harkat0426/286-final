@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="gp-stylesheet.css">
+		<link rel="stylesheet" href="stylesheet/gp-stylesheet.css">
 		<style>
 		
 			.field{
@@ -21,6 +21,7 @@
 				text-align:center;
 			}
 		</style>
+		<title>Reiki + Energy</title>
 	</head>
 	<body>
 		<div class="nav">

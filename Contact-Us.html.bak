@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="gp-stylesheet.css">
+        <link rel="stylesheet" href="stylesheet/gp-stylesheet.css">
         <title>Contact Us</title>
     </head>
     <body>
@@ -15,7 +15,7 @@
 				<li><a href="psychic.html">Readings</a></li>
 				<li><a href="learn.html">Learn Reiki</a></li>
 				<li><a href="energy.html">Reiki & Energy</a></li>
-				<li><a href="donate.html">Donate</a></li>
+				<li><a href="donations.html">Donate</a></li>
 				<li><a href="signin.html">Sign In</a></li>
             </ul>
         </div>

@@ -1,7 +1,7 @@
 <!doctype>
 <html>
 	<head>
-		<link rel="stylesheet" href="gp-stylesheet.css">
+		<link rel="stylesheet" href="stylesheet/gp-stylesheet.css">
 		<style>
 		
 			.field{
@@ -158,8 +158,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="line">
-
-        </div>
+		<div class="line"></div>
 	</body>
 </html>
